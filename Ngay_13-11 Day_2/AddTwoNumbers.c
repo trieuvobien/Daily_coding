@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-int main() {
-    printf("Hello World!");
-    return 0;
+struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
+    
 }
